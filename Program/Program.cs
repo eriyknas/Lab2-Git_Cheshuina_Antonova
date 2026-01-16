@@ -7,6 +7,7 @@ class Program
         Console.WriteLine("Enter your name:");
         string? name = Console.ReadLine();
         Console.WriteLine($"Hello, {name}");
-        Console.WriteLine("How are you?1");
+        Console.WriteLine("How are you?12");
+        Console.WriteLine(1 + 1);
     }
 }
